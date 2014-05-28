@@ -1,0 +1,9 @@
+<div id="Layer1" style="position:absolute; left:322px; top:154px; width:145px; height:48px; z-index:1">
+  <form action="" method="get">
+  <p>
+    <input name="username" type="text" value="username" height="16" width="140" style="border-style:none;"/>
+</p>
+  <p>
+    <input name="password" type="password" value="password" height="16" width="140" style="position:relative; top:10px; border-style:none;"/>
+  </p>
+  </form></div>
